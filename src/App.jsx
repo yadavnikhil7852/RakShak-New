@@ -1,6 +1,6 @@
 // App.jsx
 import React, { useState } from "react";
-import Header from "./components/header";
+import Header from "./components/Header";
 import Login from "./components/Login";
 import Splash from "./components/Splash";
 import RoleSelect from "./components/RoleSelect";
